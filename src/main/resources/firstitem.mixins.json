@@ -1,6 +1,6 @@
 {
 	"required": true,
-	"package": "com.firstitem.learn.mixin",
+	"package": "com.alphy.mixin",
 	"compatibilityLevel": "JAVA_25",
 	"mixins": [
 		"ExampleMixin"
