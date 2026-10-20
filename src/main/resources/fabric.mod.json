@@ -3,13 +3,13 @@
 	"id": "firstitem",
 	"version": "${version}",
 	"name": "firstItem",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "This is the first mod I've made",
 	"authors": [
-		"Me!"
+		"Alphy"
 	],
 	"contact": {
 		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"sources": "https://github.com/alphy-code/firstMod-Item"
 	},
 	"license": "CC0-1.0",
 	"icon": "assets/firstitem/icon.png",
